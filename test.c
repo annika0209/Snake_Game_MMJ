@@ -1,3 +1,7 @@
 // it's a test sentence
 
-dfs
+main(){
+	int a  =  1;
+	int b  =  2;
+	b = ++a
+}
